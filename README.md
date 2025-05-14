@@ -24,4 +24,4 @@ This is a **Java Swing-based Quiz Application** with a graphical interface. The 
 3. Compile the code:
    ```bash
    javac QuizApplication.java
-4. java QuizApplication
+4. run `java QuizApplication`
